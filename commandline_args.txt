@@ -1,0 +1,3 @@
+/scratch/mw88/NQ/array/1_N17_6/mm_run_pbc.py N17_6 --to water/rep1 --platform OpenCL --steps 4e7 --tempStart 300 --tempEnd 300 --reportFrequency 40000 -f forces_setup_pbc.py --timeStep 5
+/scratch/mw88/NQ/array/1_N17_6/mm_run_pbc.py N17_6 --to water/rep2 --platform OpenCL --steps 4e7 --tempStart 300 --tempEnd 300 --reportFrequency 40000 -f forces_setup_pbc.py --timeStep 5
+/scratch/mw88/NQ/array/1_N17_6/mm_run_pbc.py N17_6 --to water/rep3 --platform OpenCL --steps 4e7 --tempStart 300 --tempEnd 300 --reportFrequency 40000 -f forces_setup_pbc.py --timeStep 5
